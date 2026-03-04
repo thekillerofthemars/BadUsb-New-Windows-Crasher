@@ -1,3 +1,3 @@
-This script is tested on a chromebook with the BadUSB from Flipper Zero.
+This script is tested on BADUSB feature from Flipper Zero. This script will open tons of new windows on the device when BADUSB is connected and executed.
+Since BADUSB uses the same language as the rubber ducky from hak5, the script can be used on that aswell.
 Use it at your own discretion.
-Since BadUsb uses the same language as the rubber ducky from hak5, it can be used on that aswell.
